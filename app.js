@@ -12,7 +12,7 @@ let startGame = () => {
     scores.innerHTML = numbers[random]
 
 if (guess.value == null || guess.value < 1 || guess.value > 5 || guess.value == "") {
-    document.querySelector('.text').innerHTML = '❗Please type a number ranging from 1-5';
+    document.querySelector('.text').innerHTML = 'Please type a number ranging from 1-5';
     scores.innerHTML = '?'
     message.innerHTML = ''
     answer.innerHTML = ''
