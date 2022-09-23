@@ -6,8 +6,8 @@ You're only required to enter numbers between 1-5 and click "Check".</p>
 else, it'll display "Opss you're wrong".</p>
 <p>To restart the game click "Start" button.</p>
 <br>
-### Win mode
+Win mode
  <img src="./images/win.png" alt="win" width="80%" height="80%">
  <br><br>
- ### Loss mode
+ Loss mode
  <img src="./images/Fail.png" alt="Fail" width="80%" height="80%">
